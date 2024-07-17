@@ -1,3 +1,11 @@
-# go-lru-cache (Exercise)
+# go-lru-cache Example
 
-Given is some code to cache key-value pairs from a mock data and using LRU for Memory Management
+This project is created as an example of how to implement and use an LRU (Least Recently Used) Cache in Go.
+
+## For Test
+
+go test -race ./...
+
+## Requirements
+
+- Go 1.16 or higher
